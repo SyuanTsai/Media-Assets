@@ -1,2 +1,3 @@
-# Media-Assets
-Public image assets for notes.tw-syuan.com articles.
+# Media Assets
+
+Centralized public media assets for websites, articles, documentation, applications, and other published content.
