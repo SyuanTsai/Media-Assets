@@ -1,0 +1,96 @@
+{
+  "source": "https://forums.fatsharkgames.com/t/patch-1-13-0-patch-notes/125866",
+  "assets": [
+    {
+      "Name": "cover",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/d/5d93c4118aafe3c4cd73605e67b467ee5c51bcfa.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/cover.jpg",
+      "Bytes": 572939,
+      "Sha256": "216ddce98b2c88c97f8a1a421d421d59c2b10818e8199c4b97635593144d012a",
+      "Width": 1920,
+      "Height": 1080
+    },
+    {
+      "Name": "prophet-of-decay",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/8/d/8d41f3893629ec957a584e818ae51e28b43d170b.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/prophet-of-decay.jpg",
+      "Bytes": 113577,
+      "Sha256": "cef0d5253d3f5bae59b5fc755a2724abec84f4fad089da1103a555d5de7abcd4",
+      "Width": 1920,
+      "Height": 1080
+    },
+    {
+      "Name": "cruncher",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/2/12fa455c6c85812c35acb68eef64d9d6b129cea5.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/cruncher.jpg",
+      "Bytes": 434162,
+      "Sha256": "3214fc0450f19421018daf911b42fd321bebdf5e1427289f11073023d24bfaef",
+      "Width": 2048,
+      "Height": 1107
+    },
+    {
+      "Name": "crusher",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/8/3/83768a2a46613f1da47a8dd2ce74c57073b310a9.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/crusher.jpg",
+      "Bytes": 544581,
+      "Sha256": "c11dd5d73a10d5044d326622cb1b3ef1ca0ca45a61efab9c39430667cb23a8c6",
+      "Width": 1920,
+      "Height": 1037
+    },
+    {
+      "Name": "battle-maul-shield",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/b/1/b14a23ccb401f59f601cc0646e9d7d564b9ab064.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/battle-maul-shield.jpg",
+      "Bytes": 501632,
+      "Sha256": "c86e24e52b11cde4d0d44770b5f01977d438d587002f9a9a01d6031142041489",
+      "Width": 1920,
+      "Height": 1058
+    },
+    {
+      "Name": "huntsman-shotgun",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/2/522aa46b22004b740bd742a7e5af4411326daae0.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/huntsman-shotgun.jpg",
+      "Bytes": 528106,
+      "Sha256": "a7fa549324805a7bf197c22695ec44535d2c8cf193fb81e248644d2cef321c88",
+      "Width": 1920,
+      "Height": 1037
+    },
+    {
+      "Name": "double-barrel-shotgun",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/c/2/c230227392835942fb3439079276c3af6af94937.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/double-barrel-shotgun.jpg",
+      "Bytes": 552668,
+      "Sha256": "a2be099cb27bf96dba8a5d5774ccc23c6f0598165a2c6a271230047793297d28",
+      "Width": 1920,
+      "Height": 1037
+    },
+    {
+      "Name": "thugshot",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/0/10a708a04013bf921ee6cba039a5e4cac1b0d479.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/thugshot.jpg",
+      "Bytes": 572019,
+      "Sha256": "e91ea4429612b805106c0940df6f4729cc787db0a3b93cd93f9df94c4baa33a5",
+      "Width": 1920,
+      "Height": 1037
+    },
+    {
+      "Name": "round-statistics",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/a/d/ad35a3740c1a1ff523a8c6c90467147d07b49697.jpeg",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/round-statistics.jpg",
+      "Bytes": 160536,
+      "Sha256": "6f8e04830e476c558f08f2cdeefa89020eee42847cd95dc79513e26cddf5f5b6",
+      "Width": 1280,
+      "Height": 807
+    },
+    {
+      "Name": "operator-stats",
+      "Source": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/3/d/3dc61db19f04e39a4a9eb7c9cfe655872d8ed459.png",
+      "RepoPath": "assets/images/announcements/patch-1-13-0/operator-stats.png",
+      "Bytes": 222880,
+      "Sha256": "9f66df8efe7e029384b358d0ed4d06020b1108fac94aeab29610dd93e72b0563",
+      "Width": 408,
+      "Height": 451
+    }
+  ],
+  "retrieved": "2026-09-29"
+}
