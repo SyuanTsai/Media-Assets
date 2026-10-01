@@ -1,12 +1,13 @@
 # License scope
 
-No additional license is granted by this branch.
+No additional license is granted by this repository. Images are stored as
+GitHub Issue attachments; Git retains only text and provenance metadata.
 
-The repository currently contains one PNG used as an article-template example.
-Its source, author, creation method, and redistribution rights are not
-established by the existing "User-provided" label. The image is therefore
-excluded from any new license until provenance is documented.
+The article-template rocket in Issue #1 has unresolved source, author,
+creation method, and redistribution rights. The existing "User-provided"
+label is not permission evidence. Removing its Git binary does not resolve
+that evidence gap or grant rights to the retained attachment.
 
-The boundary documents in this branch describe the review only. Future assets
-must carry source, author, license, and modification evidence before they are
-included in a public license.
+Fatshark / Warhammer images retain their original rights. Source and
+modification evidence is recorded in the corresponding Issues. Do not infer
+a public license from uploading, indexing, or linking an attachment.

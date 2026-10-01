@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "storage": "github-issue-attachments",
+  "repository": "SyuanTsai/Media-Assets",
+  "assets": [
+    {
+      "semantic_filename": "depths-of-the-damned-cover.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/2e06768f-3fc6-4d8e-8b88-de2bcb017f30",
+      "sha256": "5659deb779a0ba00d99c1715d5577b905fd1594cf7e55c5271ce169346ca6950",
+      "bytes": 87715,
+      "alt": "機械顱骨與 BALANCE PREVIEW 字樣",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/4/7/472f3cec222971c395f54a3db8ac1aabf0abba97.jpeg"
+    },
+    {
+      "semantic_filename": "depths-of-the-damned-divider.png",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/dfaa4318-92c8-4f5e-909a-5b5cc6fd100e",
+      "sha256": "dab4eccbcf29a66a4da56bbdc344aa8258511b91e3f4ccf7b821d09bc9e89ac9",
+      "bytes": 6418,
+      "alt": "帶有顱骨裝飾的橫向分隔線",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/optimized/3X/4/d/4d6bc62b682fc979e2d5f46cbbd7e863ba291f6e_2_624x29.png"
+    },
+    {
+      "semantic_filename": "depths-of-the-damned-ogryn.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/8575199a-78fc-4496-b1c8-138e7caf106a",
+      "sha256": "2edf0afd35055798dad533c55cff38c58f040ba5d2dfbf2f308617632f778ed4",
+      "bytes": 498433,
+      "alt": "歐格林完整天賦樹配置",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/c/d/cd8aed9be9eb381e965b0c904530c757e93020c3.jpeg"
+    },
+    {
+      "semantic_filename": "depths-of-the-damned-psyker.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/5bb01fdf-7412-4f22-a7ed-24e864509208",
+      "sha256": "fbc366dd3c2907350939647ab4384da026c716778e394243fc27580d0ea02ea9",
+      "bytes": 586110,
+      "alt": "靈能者完整天賦樹配置",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/2/a/2aa04b2b7551e81370722ac0d7edd5d55467056f.jpeg"
+    },
+    {
+      "semantic_filename": "depths-of-the-damned-veteran.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/50196e45-c310-49c0-804c-15bdd151c4f5",
+      "sha256": "9d8dc2127bc74fdc7d9c54faba1a853b2ed8504d5a13a4408906fafee649659c",
+      "bytes": 473621,
+      "alt": "老兵完整天賦樹配置",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/e/2/e285fa7c98c5015b5c73917fc9cd007bbf0db6e1.jpeg"
+    },
+    {
+      "semantic_filename": "depths-of-the-damned-zealot.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/3",
+      "attachment_url": "https://github.com/user-attachments/assets/92a6a3b7-1e10-4921-8ece-7d6c63a93bfc",
+      "sha256": "c48d636fb6fe0cf7d77f42eacc6ac8071bcd2f6495e1341fd3b6da05830f3368",
+      "bytes": 591422,
+      "alt": "狂信徒完整天賦樹配置",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/a/5aeb1bb65232561944acc169c798c0cb368b081b.jpeg"
+    },
+    {
+      "semantic_filename": "battle-maul-shield.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/359d0c9d-8673-405e-bf0d-d5370ad4f204",
+      "sha256": "c86e24e52b11cde4d0d44770b5f01977d438d587002f9a9a01d6031142041489",
+      "bytes": 501632,
+      "alt": "格羅姆 Mk I 作戰大槌與 Mk V 板盾",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/b/1/b14a23ccb401f59f601cc0646e9d7d564b9ab064.jpeg"
+    },
+    {
+      "semantic_filename": "cover.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/71bddf28-be6b-4a69-af77-cbd16c8823a5",
+      "sha256": "216ddce98b2c88c97f8a1a421d421d59c2b10818e8199c4b97635593144d012a",
+      "bytes": 572939,
+      "alt": "詛咒深淵免費更新封面",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/d/5d93c4118aafe3c4cd73605e67b467ee5c51bcfa.jpeg"
+    },
+    {
+      "semantic_filename": "cruncher.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/591634b9-9ac9-40b7-9fb2-eb2d07982663",
+      "sha256": "3214fc0450f19421018daf911b42fd321bebdf5e1427289f11073023d24bfaef",
+      "bytes": 434162,
+      "alt": "克魯克 Mk IIa 碎擊錘",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/2/12fa455c6c85812c35acb68eef64d9d6b129cea5.jpeg"
+    },
+    {
+      "semantic_filename": "crusher.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/792b3f81-3349-4cd3-8c59-89c8517fe9ce",
+      "sha256": "c11dd5d73a10d5044d326622cb1b3ef1ca0ca45a61efab9c39430667cb23a8c6",
+      "bytes": 544581,
+      "alt": "克魯克 Mk VII 碾壓者",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/8/3/83768a2a46613f1da47a8dd2ce74c57073b310a9.jpeg"
+    },
+    {
+      "semantic_filename": "double-barrel-shotgun.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/16487ec9-4cf5-4a14-a95c-017235374ae3",
+      "sha256": "a2be099cb27bf96dba8a5d5774ccc23c6f0598165a2c6a271230047793297d28",
+      "bytes": 552668,
+      "alt": "克魯克 Mk IV 雙管霰彈槍",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/c/2/c230227392835942fb3439079276c3af6af94937.jpeg"
+    },
+    {
+      "semantic_filename": "huntsman-shotgun.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/fb4d7910-38b2-41e5-a993-e6b7b6b5d1fb",
+      "sha256": "a7fa549324805a7bf197c22695ec44535d2c8cf193fb81e248644d2cef321c88",
+      "bytes": 528106,
+      "alt": "阿卡特蘭 Mk III 獵人霰彈槍",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/2/522aa46b22004b740bd742a7e5af4411326daae0.jpeg"
+    },
+    {
+      "semantic_filename": "operator-stats.png",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/80f2bdf6-bf6c-4098-8dad-58ba28a1b916",
+      "sha256": "9f66df8efe7e029384b358d0ed4d06020b1108fac94aeab29610dd93e72b0563",
+      "bytes": 222880,
+      "alt": "特工詳細屬性畫面",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/3/d/3dc61db19f04e39a4a9eb7c9cfe655872d8ed459.png"
+    },
+    {
+      "semantic_filename": "prophet-of-decay.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/3f7ae9f2-8323-4f1b-a173-89d75fc3b31d",
+      "sha256": "cef0d5253d3f5bae59b5fc755a2724abec84f4fad089da1103a555d5de7abcd4",
+      "bytes": 113577,
+      "alt": "全新首領腐朽先知",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/8/d/8d41f3893629ec957a584e818ae51e28b43d170b.jpeg"
+    },
+    {
+      "semantic_filename": "round-statistics.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/92912566-b604-44f7-bd46-970b05da2e05",
+      "sha256": "6f8e04830e476c558f08f2cdeefa89020eee42847cd95dc79513e26cddf5f5b6",
+      "bytes": 160536,
+      "alt": "任務結算統計畫面",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/a/d/ad35a3740c1a1ff523a8c6c90467147d07b49697.jpeg"
+    },
+    {
+      "semantic_filename": "thugshot.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/5",
+      "attachment_url": "https://github.com/user-attachments/assets/80075f44-3f60-42e5-8d5b-95eddad0fffe",
+      "sha256": "e91ea4429612b805106c0940df6f4729cc787db0a3b93cd93f9df94c4baa33a5",
+      "bytes": 572019,
+      "alt": "洛倫茲 Mk VII 惡棍射手",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/0/10a708a04013bf921ee6cba039a5e4cac1b0d479.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-boss-arena.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/da94b5a9-942c-42fa-b12d-bc3749e7c1ef",
+      "sha256": "c2603738bcb8afd380ce70ba2c8db33aaa7c5dfe9b911968979971d4309373f8",
+      "bytes": 425218,
+      "alt": "腐化深處的圓形首領戰場",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/e/1eb3a9eb6642f6c6703c64fe2115c9de09a8a134.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-branching.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/9d7bd88b-0dba-4f6e-8c21-f52e96e9d8d5",
+      "sha256": "deba668e92475843ae3c03303aecf708660b7572540bd048f424c411bec17ad4",
+      "bytes": 590603,
+      "alt": "牆上塗滿符號的兩道分岔門",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/4/0/40b6dfd1a3e72779d3a02dd5c8d697edb14ed1b4.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-corruption.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/9a114991-c468-4047-bf7b-5980f48af901",
+      "sha256": "47605e6c11882faee76ca192b85f72927810eb661b2aea2f99b30e3210053c37",
+      "bytes": 568313,
+      "alt": "受腐化侵染的地下房間與樓梯",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/3/2/32442c37960ee53e1ccdae346542636ece5d34e6.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-cover.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/b865ce1e-8966-44a9-a4bc-e62e635a133a",
+      "sha256": "a7b2e6252550bf9542bbf8016f079651aea4864c205ec19d9085a31eca76dc67",
+      "bytes": 387113,
+      "alt": "溢洪道場景與 VISUAL DESIGN 字樣",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/6/5/6527382cabf3dcf4cb4ce6a14edd572880c68dcd.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-outpost.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/013accab-c698-4844-900f-2478be94ecde",
+      "sha256": "245d5ef916dd7c44683f13b049c4c35fa83efa5a17a31d0a637a2e18ae14ee14",
+      "bytes": 561099,
+      "alt": "受腐化侵染的地下房間",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/1/0/10f8c6cb73f754105a9dac73620f7fe0ac3c3b44.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-reservoir.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/2d668452-8ab3-4d2d-86b9-e10e5e486acd",
+      "sha256": "a1cf48a71c8bcc29f963aee574a6560603d188c4240ffd9b9dca5b1591633c3d",
+      "bytes": 613483,
+      "alt": "大型鎖鏈旁的地下工業通道",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/9/7/97933d9e4a4355cfa613727f9057d6abef92cb6d.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-start.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/2a350220-d035-494d-a385-5456c3eefd15",
+      "sha256": "e385e31504db48a064b84fd68d607844e458bd85997058e08a05d100d7bfd39f",
+      "bytes": 346198,
+      "alt": "管線與吊掛平台構成的溢洪道場景",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/4/2/42a4edb149f695be253d198b93746a0fb2f741f9.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-tunnels.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/d8a30d5b-9f6a-49b6-9972-51b74456a6e4",
+      "sha256": "770c8afc495c8d39361811e0cf29971db5a4172011488cd77cad115e94483678",
+      "bytes": 475684,
+      "alt": "布滿肉塊與眼球的腐化隧道",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/5/d/5df2dc680d15976173053b6cd4edb3f8f0bcd849.jpeg"
+    },
+    {
+      "semantic_filename": "spillway-visible-paths.jpg",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/4",
+      "attachment_url": "https://github.com/user-attachments/assets/7dc87caa-b458-41a2-9c2b-97fed1b3c36c",
+      "sha256": "b66b03849b084b5a82f1b9d1235820d69d379085141f46b383cd33a13a20f69c",
+      "bytes": 499840,
+      "alt": "隊員穿越受腐化的隧道空間",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://europe1.discourse-cdn.com/flex013/uploads/fatshark/original/3X/d/b/db48e5c5a6d1c3171677881d4d6cd71be6a9a6ee.jpeg"
+    },
+    {
+      "semantic_filename": "article-template-rocket-example-7ff6a962.png",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/1",
+      "attachment_url": "https://github.com/user-attachments/assets/becf7d8d-5487-4f6c-b55e-23b80312e508",
+      "sha256": "7ff6a9628352bc30eaef3f4df09cb3b2188cf69795207ee51b6116bd84550bfa",
+      "bytes": 10370,
+      "alt": "紫色火箭向右上方升空，尾部帶有橘色火焰",
+      "verified_on": "2026-10-01",
+      "original_source_url": null,
+      "provenance_status": "unresolved-original-source"
+    },
+    {
+      "semantic_filename": "veteran_combat_ability_extra_charge.webp",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/6",
+      "attachment_url": "https://github.com/user-attachments/assets/29160cac-e32b-4037-bc8c-3a0765e3a6df",
+      "sha256": "53175748e3bd3e442f5a1d8a8af2958f1b718dfb95df8707f67b9d68adfb6edd",
+      "bytes": 5758,
+      "alt": "掩護射擊天賦圖示",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://gameslantern.com/storage/sites/darktide/exporter/talents/veteran/ability_modifier/veteran_combat_ability_extra_charge.webp"
+    },
+    {
+      "semantic_filename": "veteran_increase_damage_vs_elites.webp",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/6",
+      "attachment_url": "https://github.com/user-attachments/assets/915cdbef-5b88-4d3b-a4f1-e29e8a8f0f07",
+      "sha256": "f51bb58c4c6269272c653a56e3db0eb9a985a139f0270260ab05ae9de91827e3",
+      "bytes": 6380,
+      "alt": "優越情節天賦圖示",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://gameslantern.com/storage/sites/darktide/exporter/talents/veteran/default/veteran_increase_damage_vs_elites.webp"
+    },
+    {
+      "semantic_filename": "veteran_ranged_power_out_of_melee.webp",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/6",
+      "attachment_url": "https://github.com/user-attachments/assets/8cc616f0-d225-4b5f-81a4-8780f478d471",
+      "sha256": "52a9ca53b86c95279d44bb47d35df4ea94b268bee43bb59da8129e4e5661bc18",
+      "bytes": 4726,
+      "alt": "殺戮地帶天賦圖示",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://gameslantern.com/storage/sites/darktide/exporter/talents/veteran/default/veteran_ranged_power_out_of_melee.webp"
+    },
+    {
+      "semantic_filename": "veteran_replenish_grenades.webp",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/6",
+      "attachment_url": "https://github.com/user-attachments/assets/511ac082-cbea-4af3-8f8e-3dfeab7ca2bf",
+      "sha256": "eb6b53cc5b461f6e26a97868f0b69c3f7b7317cf1bd4841b94ee3ea33c911a62",
+      "bytes": 3502,
+      "alt": "炸藥儲備天賦圖示",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://gameslantern.com/storage/sites/darktide/exporter/talents/veteran/tactical_modifier/veteran_replenish_grenades.webp"
+    },
+    {
+      "semantic_filename": "veteran_replenish_toughness_on_weakspot_kill.webp",
+      "issue": "https://github.com/SyuanTsai/Media-Assets/issues/6",
+      "attachment_url": "https://github.com/user-attachments/assets/c7ac403a-7fac-4ce9-bc80-8a7df2af7907",
+      "sha256": "9a769f0edec7463879d085a495f308f4fb4db69cb4dd9048f87bbea121d2820f",
+      "bytes": 5666,
+      "alt": "振奮擊倒天賦圖示",
+      "verified_on": "2026-10-01",
+      "original_source_url": "https://gameslantern.com/storage/sites/darktide/exporter/talents/veteran/default/veteran_replenish_toughness_on_weakspot_kill.webp"
+    }
+  ]
+}
